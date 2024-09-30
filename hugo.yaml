@@ -152,7 +152,9 @@ params:
     title: "About Me"
 #    image: "/images/me.png"
     content: |-
-      I am a Computer Scientist with a passion for anything FOSS and Linux. I am working on my Master's in CS from [KIT](https://kit.edu) with a focus on networking and IT security. I have worked on multiple Privacy Enhancing Technologies while employed at the [chair of practical IT security](https://ps.tm.kit.edu).
+      I am a Computer Scientist with a passion for anything FOSS and Linux. I have a Masters' in CS from [KIT](https://kit.edu) with a focus on networking and IT security.
+      I have worked on multiple Privacy Enhancing Technologies while employed at the [chair of practical IT security](https://ps.tm.kit.edu).
+      Currently I work at [Vector Informatik](https://vector.com) as a Software Engineer.
 
       In my free time I like to manage my own fleet of [NixOS](https://nixos.org) machines, develop open source software and spend as much time as possible with my loved ones.
     skills:
@@ -227,7 +229,7 @@ params:
           name: "Karlsruhe Institute of Technology"
           url: "https://kit.edu"
         date: "2021 - 2024"
-        content: "Current grade 1.2"
+        content: "Final grade 1.1"
       - title: "Bachelor of Science in Computer Science"
         school:
           name: "Karlsruhe Institute of Technology"
