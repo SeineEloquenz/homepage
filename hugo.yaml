@@ -167,6 +167,8 @@ params:
         - "Rust"
         - "C++"
         - "Python"
+        - "Jetpack Compose"
+        - "Hilt"
 
   # Experience
   experience:
