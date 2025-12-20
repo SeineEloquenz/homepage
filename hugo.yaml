@@ -174,53 +174,56 @@ params:
   # Experience
   experience:
     enable: false
-    # title: "Custom Name"
+
     items:
-      - job: "Student Assistant"
-        company: "TU Dresden"
-        companyUrl: "https://tu-dresden.de"
-        date: "Oct 2023 - present"
-        info:
-          enable: false
-        featuredLink:
-          enable: false
-          name: "View the project"
-          url: "https://example.com"
-        content: "I am currently working as a Student Assistant at the chair of Data Privacy at [TU Dresden](https://tu-dresden.de). There I'm implementing different kinds of Privacy Enhancing Technologies, like Mixnets, privacy preserving messengers and onion routing systems."
 
-      - job: "Student Assistant"
-        company: "KIT"
+      - company: "Vector"
+        companyUrl: "https://vector.com"
+        jobs:
+          - name: "Software Development Engineer"
+            date: "Jan 2026 - Present"
+            info:
+              enable: false
+            content: "I currently work as a Software Engineer building Vector's [Software Factory](https://www.vector.com/int/en/products/solutions/software-defined-vehicle/software-factory/#c406210)."
+
+          - name: "Software Development Engineer"
+            date: "Oct 2024 - Dec 2025"
+            info:
+              enable: false
+            content: "I worked on SysML and Wiring Harness editors for [PREEvision](https://www.vector.com/int/en/products/products-a-z/software/preevision/) for the department Process Tools."
+
+      - company: "TU Dresden"
+        companyUrl: "https://tu-dresden.de/"
+        jobs:
+        - name: "Student Assistant"
+          date: "Oct 2023 - present"
+          info:
+              enable: false
+          content: "I worked as a Student Assistant at the chair of Data Privacy at [TU Dresden](https://tu-dresden.de). There I implemented different kinds of Privacy Enhancing Technologies, like Mixnets, privacy preserving messengers and onion routing systems."
+
+      - company: "KIT"
         companyUrl: "https://kit.edu"
-        date: "May 2023 - Sept 2023"
-        featuredLink:
-          enable: false
-          url: "https://example.com"
-        info:
-          enable: false
-          content: I worked as a software developer for more than one year in Amazon.
-        content: "I worked at the [chair of practical IT security](https://ps.tm.kit.edu]. There I was implementing different kinds of Privacy Enhancing Technologies."
+        jobs:
+        - name: "Student Assistant"
+          date: "May 2023 - Sept 2023"
+          info:
+              enable: false
+          content: "I worked at the [chair of Practical IT Security](https://ps.tm.kit.edu). There I implemented different kinds of Privacy Enhancing Technologies and research prototypes."
 
-      - job: "Tutor"
-        company: "KIT"
-        companyUrl: "https://kit.edu"
-        date: "Oct 2019 - Feb 2023"
-        info:
-          enable: false
-        featuredLink:
-          enable: false
-          url: "https://kit.edu"
-        content: "I worked as a Tutor for the lecture Theoretical Foundations of Computer Science at the chair of theoretical informatics."
+        - name: "Tutor"
+          date: "Oct 2019 - Feb 2023"
+          info:
+              enable: false
+          content: "I worked as a Tutor for the lecture Theoretical Foundations of Computer Science at the [chair of Theoretical Informatics](https://www.iti.kit.edu/en/start)."
 
-      - job: "Intern"
-        company: "Capgemini"
-        companyUrl: "https://capgemini.com"
-        date: "Sept 2017"
-        info:
-          enable: false
-        featuredLink:
-          enable: false
-          url: "https://example.com"
-        content: "I did in internship in the individual software development team in the automotive department at Capgemini to prepare for my CS degree."
+      - company: "Capgemini"
+        companyUrl: "https://www.capgemini.com"
+        jobs:
+          - name: "Intern"
+            date: "Aug 2017 - Sept 2017"
+            info:
+              enable: false
+            content: "I worked as an Intern in individual software development for the automotive department."
 
   education:
     enable: true
