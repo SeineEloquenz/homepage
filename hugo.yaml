@@ -184,13 +184,16 @@ params:
             date: "Jan 2026 - Present"
             info:
               enable: false
-            content: "I currently work as a Software Engineer building Vector's [Software Factory](https://www.vector.com/int/en/products/solutions/software-defined-vehicle/software-factory/#c406210)."
+            content: |
+              I currently work as a Software Engineer building Vector's [Software Factory](https://www.vector.com/int/en/products/solutions/software-defined-vehicle/software-factory/#c406210).
+              I work on the Software Composition team building tools and services mostly in Rust.
 
           - name: "Software Development Engineer"
             date: "Oct 2024 - Dec 2025"
             info:
               enable: false
-            content: "I worked on SysML and Wiring Harness editors for [PREEvision](https://www.vector.com/int/en/products/products-a-z/software/preevision/) for the department Process Tools."
+            content: |
+              I worked on SysML and Wiring Harness editors for [PREEvision](https://www.vector.com/int/en/products/products-a-z/software/preevision/) for the Process Tools department.
 
       - company: "TU Dresden"
         companyUrl: "https://tu-dresden.de/"
