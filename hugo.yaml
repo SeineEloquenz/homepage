@@ -91,7 +91,7 @@ params:
     secondaryTextColor:
     backgroundColor:
     secondaryBackgroundColor: "#E3000F"
-    primaryColor: "#E3000F"
+    primaryColor: "#E63946"
     secondaryColor:
 
     darkmode:
@@ -99,7 +99,7 @@ params:
       secondaryTextColor:
       backgroundColor:
       secondaryBackgroundColor: "#E3000F"
-      primaryColor: "#E3000F"
+      primaryColor: "#E63946"
       secondaryColor:
 
   # If you want to customize the menu, you can change it here
