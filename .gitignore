@@ -2,3 +2,4 @@ public/
 result
 .hugo_build.lock
 .direnv
+themes/profile

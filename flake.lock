@@ -1,5 +1,21 @@
 {
   "nodes": {
+    "hugo-profile": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1767200552,
+        "narHash": "sha256-GZGAznK24wj+RC8XgcQMwR4+6/MwwwFcRfr/shdgHMk=",
+        "owner": "SeineEloquenz",
+        "repo": "hugo-profile",
+        "rev": "fe99b38dbf54e765ea0dcfa0cfed6a757a6cf8b0",
+        "type": "github"
+      },
+      "original": {
+        "owner": "SeineEloquenz",
+        "repo": "hugo-profile",
+        "type": "github"
+      }
+    },
     "nixpkgs": {
       "locked": {
         "lastModified": 1747958103,
@@ -16,6 +32,7 @@
     },
     "root": {
       "inputs": {
+        "hugo-profile": "hugo-profile",
         "nixpkgs": "nixpkgs"
       }
     }
