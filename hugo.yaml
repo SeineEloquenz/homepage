@@ -298,6 +298,19 @@ params:
         links:
           - icon: fab fa-github
             url: https://github.com/SeineEloquenz/fosswallet
+      - title: Quits
+        content: A FOSS expense splitting app for Android and Web.
+        image: /images/quits.svg
+        featured:
+          enable: false
+        badges:
+          - "Kotlin"
+          - "Rust"
+          - "Jetpack Compose"
+          - "CICD"
+        links:
+          - icon: fab fa-github
+            url: https://github.com/SeineEloquenz/quits
 
   #Contact
   contact:
